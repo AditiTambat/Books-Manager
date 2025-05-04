@@ -1,4 +1,4 @@
-# Books-Management-with-JDBC
+# Books-Management-with-JDBC  (mini project)
 A simple Java application that demonstrates CRUD (Create, Read, Update, Delete) operations on a "Books" database table using JDBC and MySQL. The project allows users to insert, view, update, and delete book records from a MySQL database through a console-based interface.
 
 
