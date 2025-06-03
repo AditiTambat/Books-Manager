@@ -1,4 +1,4 @@
-# Books-Management-with-JDBC  (mini project)
+# Books-Manager (mini project)
 A mini Java desktop application that demonstrates CRUD (Create, Read, Update, Delete) operations on a Books table using JDBC, MySQL, and a Swing-based GUI.
 This project allows users to insert, view, update, and delete book records in a user-friendly windowed environment instead of the console.
 
