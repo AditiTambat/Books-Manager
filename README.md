@@ -9,8 +9,8 @@ This project allows users to insert, view, update, and delete book records in a 
 <li> Update existing book </li>
 <li> Delete a book </li>
 
-## Technologies Used
-- Java
-- JDBC
-- MySQL
-- Java Swing(GUI)
+## Tech Stack 
+- Frontend (UI): Java Swing
+- Backend: Core Java, JDBC
+- Database: MySQL
+- Technologies: SQL, JDBC API, Java Swing, OOP
